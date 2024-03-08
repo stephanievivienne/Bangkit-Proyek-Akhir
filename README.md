@@ -11,7 +11,9 @@ Dataset yang digunakan dalam proyek ini berasal dari Kaggle (https://www.kaggle.
 # Cara menjalankan Dashboard Lokal
 ## Set Up Environment 
 conda create --name main-ds python=3.9
+
 conda activate main-ds
+
 pip install Babel matplotlib pandas seaborn streamlit
 
 ## Run steamlit app
