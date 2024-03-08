@@ -1,0 +1,2 @@
+Link deploy: https://bangkit-proyek-akhir-h9ptawcaj4qwawrfyfdjmn.streamlit.app/
+Link github: https://github.com/stephanievivienne/Bangkit-Proyek-Akhir
